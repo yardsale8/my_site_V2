@@ -1,2 +1,4 @@
-# my_site
+# My Website
+
+This repo holds my *awsome* **website**
  
